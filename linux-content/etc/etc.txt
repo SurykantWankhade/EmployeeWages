@@ -1,0 +1,9 @@
+geoclue:x:119:124::/var/lib/geoclue:/usr/sbin/nologin
+gnome-initial-setup:x:120:65534::/run/gnome-initial-setup/:/bin/false
+gdm:x:121:125:Gnome Display Manager:/var/lib/gdm3:/bin/false
+anurag:x:1000:1000:aashish:/home/anurag:/bin/bash
+bind:x:122:127::/var/cache/bind:/usr/sbin/nologin
+mysql:x:123:128:MySQL Server,,,:/nonexistent:/bin/false
+epmd:x:124:129::/var/run/epmd:/usr/sbin/nologin
+rabbitmq:x:125:130:RabbitMQ messaging server,,,:/var/lib/rabbitmq:/usr/sbin/nologin
+postgres:x:126:131:PostgreS
